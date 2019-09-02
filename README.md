@@ -1,6 +1,6 @@
 # tictactoe
 
-A simple command line program to play tic-tac-toe.
+A simple command line program to play tic-tac-toe. Made as the first project work when starting to study programming at Tampere University of Applied Sciences.
 
 ## installation
 
